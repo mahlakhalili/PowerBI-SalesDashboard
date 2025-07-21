@@ -15,6 +15,8 @@ This is an interactive sales dashboard built in Power BI.
 
 ### 📄 Dashboard – Page 1
 ![Dashboard Page 1](page1.png)
+### 📄 Dashboard – Page 2
+![Dashboard Page 2](page2.png)
 
 
 
