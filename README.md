@@ -11,11 +11,5 @@ This is an interactive sales dashboard built in Power BI.
 - Heatmap by City & Category
 - Interactive slicer by Product Category
 
-- ## 🖼️ Screenshots
 
-### 📄 Dashboard – Page 1
-![Dashboard Page 1](screenshots/page1.png)
-
-### 📄 Dashboard – Page 2
-![Dashboard Page 2](screenshots/page2.png)
 
